@@ -1,14 +1,21 @@
-# TAU
+# TAU - Project 2
 
  ## Łukasz Cettler (s20168) - grupa 74C
- 
-Course is a part of PJATK curriculum.\
 
-## Projects:
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-* Project 1 - Simple unit tests and edge cases.
-* Project 2 - Project 1. rewritten using Maven.
-* Project 3 - Two simple scenarios using Selenium Webdriver
-* Project 4 - Usage of mocks in testing
-* Project 5 - Simple CI/CD
-* Project 5 - Board Game (Snake) project with game tests
+* [About The Project](#about-the-project)
+* [Technologies Used](#technologies-used)
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Simple project that calculates weighted average from .txt files:
+
+![WeightedAverage.java](https://github.com/s20168/mpr-java/blob/master/src/main/java/pl/edu/pjwstk/mpr/WeightedAverage.java)
+![WeightedAverageTest.java](https://github.com/s20168/mpr-java/blob/master/src/test/java/pl/edu/pjwstk/mpr/WeightedAverageTest.java)
+
+## Technologies Used
+
+* Java
