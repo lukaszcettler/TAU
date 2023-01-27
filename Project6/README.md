@@ -6,22 +6,18 @@
 ## Table of Contents
 
 * [About The Project](#about-the-project)
-* [Features](#features)
 * [Technologies Used](#technologies-used)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Soon
+A simple Snake (Catch a Dot) mobile game for iOS created using Swift. The logic of the game has been tested by the implemented test cases.
 
+![alt text](https://github.com/lukaszcettler/TAU/blob/main/Project6/CatchaDotTest.gif)
 
-![alt text](https://github.com/mierzvoj/conn4-nai-1/blob/main/c4_example.gif)
+Logic that has been tested:
 
-## Features
-   - Implemented Minimax recursive algorithm function.
-   - We used 5p.js graphics library to provide easy game grid render and simple UI.
-   - We used evaluation table that indicates possible combinations of four tiles connected, depending on the position on the gameboard starting point.
-   - JS alerts that announce the winner.
+![alt text](https://github.com/lukaszcettler/TAU/blob/main/Project6/ShowTests.png)
 
 ## Technologies Used
 
