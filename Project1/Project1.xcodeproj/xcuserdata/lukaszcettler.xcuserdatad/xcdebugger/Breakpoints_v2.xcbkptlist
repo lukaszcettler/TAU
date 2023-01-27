@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D4696516-2F75-4FA6-B11B-C17B8D28029E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C8E2160-F2BE-440C-88CC-54828D066C5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1Tests/Project1Tests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "testAddNumbers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D5C3177-E35E-4394-B796-3DCE02747CD7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1Tests/Project1Tests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "Project1Tests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9D5C3177-E35E-4394-B796-3DCE02747CD7 - 7ab99312c6fb39d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1Tests.Project1Tests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; Project1Tests.Project1Tests"
+                  moduleName = "Project1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukaszcettler/Desktop/TAU/Project1/Project1Tests/Project1Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9D5C3177-E35E-4394-B796-3DCE02747CD7 - fd72bfc6abc5beb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1Tests.Project1Tests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; Project1Tests.Project1Tests"
+                  moduleName = "Project1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukaszcettler/Desktop/TAU/Project1/Project1Tests/Project1Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "9D5C3177-E35E-4394-B796-3DCE02747CD7 - a755a74d3551b51f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1Tests.Project1Tests.__allocating_init(selector: ObjectiveC.Selector) -&gt; Project1Tests.Project1Tests"
+                  moduleName = "Project1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukaszcettler/Desktop/TAU/Project1/Project1Tests/Project1Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9D5C3177-E35E-4394-B796-3DCE02747CD7 - 440551ed6d994037"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1Tests.Project1Tests.init(selector: ObjectiveC.Selector) -&gt; Project1Tests.Project1Tests"
+                  moduleName = "Project1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukaszcettler/Desktop/TAU/Project1/Project1Tests/Project1Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "9D5C3177-E35E-4394-B796-3DCE02747CD7 - a7e620b650d5de88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1Tests.Project1Tests.__allocating_init() -&gt; Project1Tests.Project1Tests"
+                  moduleName = "Project1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukaszcettler/Desktop/TAU/Project1/Project1Tests/Project1Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "9D5C3177-E35E-4394-B796-3DCE02747CD7 - cde45d65372468e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1Tests.Project1Tests.init() -&gt; Project1Tests.Project1Tests"
+                  moduleName = "Project1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukaszcettler/Desktop/TAU/Project1/Project1Tests/Project1Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "9D5C3177-E35E-4394-B796-3DCE02747CD7 - 2c63e619cbfe97e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1Tests.Project1Tests.__deallocating_deinit"
+                  moduleName = "Project1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukaszcettler/Desktop/TAU/Project1/Project1Tests/Project1Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F6C7AB6-B7E6-473D-8B76-C8B8F72B7669"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1Tests/Project1Tests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "Project1Tests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C48F1462-79D7-4728-AB85-EC43A6B8FA62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1Tests/Project1Tests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "testAddNumbers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
