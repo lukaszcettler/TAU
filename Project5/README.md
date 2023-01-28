@@ -1,14 +1,24 @@
-# TAU
+# TAU - Project 2
 
  ## Łukasz Cettler (s20168) - grupa 74C
- 
-Course is a part of PJATK curriculum.\
 
-## Projects:
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-* Project 1 - Simple unit tests and edge cases.
-* Project 2 - Project 1. rewritten using Maven.
-* Project 3 - Two simple scenarios using Selenium Webdriver
-* Project 4 - Usage of mocks in testing
-* Project 5 - Simple CI/CD
-* Project 5 - Board Game (Snake) project with game tests
+* [About The Project](#about-the-project)
+* [Technologies Used](#technologies-used)
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+It's a clone of a Project1, that uses continuous integration and continuous delivery (CI/CD) with GitHub Actions for iOS.
+
+* [Please visit this repository](https://github.com/lukaszcettler/Project1)<br/>
+* [You can check the runs here](https://github.com/lukaszcettler/Project1/actions)<br/>
+* [You can check the .yml file here](https://github.com/lukaszcettler/Project1/tree/master/.github/workflows)
+
+## Technologies Used
+
+* Swift
+* UIKit library
+* XCTest
