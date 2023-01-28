@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-It's a clone of a Project1, that uses continuous integration and continuous delivery (CI/CD) with GitHub Actions for iOS.
+It's a clone of a [Project1](https://github.com/lukaszcettler/TAU/tree/main/Project1), that uses continuous integration and continuous delivery (CI/CD) with GitHub Actions for iOS.
 
 * [Please visit this repository](https://github.com/lukaszcettler/Project1)<br/>
 * [You can check the runs here](https://github.com/lukaszcettler/Project1/actions)<br/>
