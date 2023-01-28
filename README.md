@@ -2,7 +2,7 @@
 
  ## Łukasz Cettler (s20168) - grupa 74C
  
-Course is a part of PJATK curriculum.\
+Course is a part of PJATK curriculum.
 
 ## Projects:
 
