@@ -11,10 +11,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Simple project that calculates weighted average from .txt files:
+Java example of Project1 task. It's  a simple project that calculates weighted average from .txt files with test class:
 
-![WeightedAverage.java](https://github.com/s20168/mpr-java/blob/master/src/main/java/pl/edu/pjwstk/mpr/WeightedAverage.java)
-![WeightedAverageTest.java](https://github.com/s20168/mpr-java/blob/master/src/test/java/pl/edu/pjwstk/mpr/WeightedAverageTest.java)
+[WeightedAverage](https://github.com/s20168/mpr-java/blob/master/src/main/java/pl/edu/pjwstk/mpr/WeightedAverage.java)<br />
+[WeightedAverageTest](https://github.com/s20168/mpr-java/blob/master/src/test/java/pl/edu/pjwstk/mpr/WeightedAverageTest.java)
 
 ## Technologies Used
 
