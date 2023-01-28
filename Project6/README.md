@@ -1,4 +1,4 @@
-# Project 6
+# TAU - Project 2
 
 ## Łukasz Cettler (s20168) - grupa 74C
 
