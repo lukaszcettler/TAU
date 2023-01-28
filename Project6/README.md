@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple Snake (Catch a Dot) mobile game for iOS created using Swift. The logic of the game has been tested by the implemented test cases.
+A simple Snake (Catch a Dot) mobile game for iOS created using Swift. We randomly generate red dot (score point) on the board. The logic of the game has been tested by the implemented test cases.
 
 ![alt text](https://github.com/lukaszcettler/TAU/blob/main/Project6/CatchaDotTest.gif)
 
